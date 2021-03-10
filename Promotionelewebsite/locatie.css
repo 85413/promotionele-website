@@ -1,0 +1,44 @@
+#box{
+    width: 1850px;
+    height: 800px;
+    border: black 3px solid;
+    margin-top: 80px;
+    background-color: cadetblue;
+    margin-top: 10px;
+}
+p{
+    margin: 0;
+}
+.vlag{
+    margin-top: 5px;
+}
+.vlagdiv{
+    height: 300px;
+    border: solid black 1px;
+    width: 250px;
+    padding: 12px;
+}
+.tekst{
+margin-bottom: 20px;
+}
+#mo{
+    height: 1000px;
+
+}
+#kech{
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-row-gap: 50px;
+    display: grid;
+    grid-auto-rows: 1fr;
+    grid-column-gap: 40px;
+}
+#brazilie{
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+#dekuip{
+    width: 200px;
+    height: 220px;
+    margin-top: 30px;
+}
